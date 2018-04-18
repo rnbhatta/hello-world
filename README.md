@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Just making some edits to test how 'merge' works
